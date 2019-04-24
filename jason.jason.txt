@@ -69,6 +69,6 @@
             "episode": 51,
             "categorie":"Magic | Shounen | Adventure",
             "studio":"Studio Pierrot",
-            "img": "https:\/\/www.simplifiedcoding.in\/storage\/movie\/captain_marvel.jpg"
+            "img": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwis47m86-nhAhWV63MBHdCQBzEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.sideshow.com%2Fcollectibles%2Fmarvel-iron-man-hot-toys-903421&psig=AOvVaw3q8flT63xFT8cuthoFiOs_&ust=1556233436502669"
         },
         {
